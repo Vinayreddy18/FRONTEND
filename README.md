@@ -15,6 +15,7 @@ Loading States: Visual indicators during data fetching.
 Resources
 Trademarkia Search Page: https://www.trademarkia.com/search/trademarks?query=nike&country=us
 Figma Design: https://www.figma.com/design/UAt5wN8hy8JuFhMTsXK2Re/Search-results-for-front-end-task?node-id=0-1&node-type=canvas
+
 API Documentation: https://www.postman.com/trademarkia/new-hiring-2024/request/34681474-16bfa9da-0720-4eea-90ee-7e7b1354af1b?action=share&creator=34681474&ctx=documentation
 
 Instructions
@@ -32,11 +33,11 @@ Enhanced Loading States: Implemented loading states wherever necessary to enhanc
 
 # Clone the repository
 
-git clone <repository-url>
+git clone repository-url
 
 # Navigate to the project directory
 
-cd <project-directory>
+cd project-directory
 
 # Install dependencies
 
